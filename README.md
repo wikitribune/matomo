@@ -32,16 +32,16 @@ OR
 - Log reader: https://matomo.org/docs/tracking-api/
 - CloudfFare App: https://www.cloudflare.com/apps/piwik
 
-#Steps for install
+# Steps for install
 
-![](/Users/migueldavid/Desktop/Screen Shot 2018-07-25 at 14.55.04.png)
+![screen1](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen1.png)
 
-![Screen Shot 2018-07-25 at 14.57.44](./screenshots/Screen Shot 2018-07-25 at 14.57.44.png)
+![screen2](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen2.png)
 
-![Screen Shot 2018-07-25 at 14.58.16](./screenshots/Screen Shot 2018-07-25 at 14.58.16.png)
+![screen3](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen3.png)
 
-![Screen Shot 2018-07-25 at 14.58.42](./screenshots/Screen Shot 2018-07-25 at 14.58.42.png)
+![screen4](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen4.png)
 
-![Screen Shot 2018-07-25 at 14.58.59](./screenshots/Screen Shot 2018-07-25 at 14.58.59.png)
+![screen5](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen5.png)
 
-![Screen Shot 2018-07-25 at 14.59.15](./screenshots/Screen Shot 2018-07-25 at 14.59.15.png)
+![screen6](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen6.png)
