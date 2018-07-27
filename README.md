@@ -34,14 +34,14 @@ OR
 
 # Steps for install
 
-![screen1](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen1.png)
+![screen1](screenshots/screen1.png?raw=true "Screenshot")
 
-![screen2](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen2.png)
+![screen2](screenshots/screen2.png?raw=true "Screenshot")
 
-![screen3](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen3.png)
+![screen3](screenshots/screen3.png?raw=true "Screenshot")
 
-![screen4](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen4.png)
+![screen4](screenshots/screen4.png?raw=true "Screenshot")
 
-![screen5](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen5.png)
+![screen5](screenshots/screen5.png?raw=true "Screenshot")
 
-![screen6](/Users/migueldavid/Documents/Trabalho/wikitribune/wikitribune_matomo/screenshots/screen6.png)
+![screen6](screenshots/screen6.png?raw=true "Screenshot")
