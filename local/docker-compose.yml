@@ -1,0 +1,34 @@
+# using version 2 because v3 lost volumes_from to share between containers and not host
+version: '2'
+services:
+  db:
+    image: mariadb:latest
+    volumes:
+      - mysqldata:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=mypassword
+      - MYSQL_USER=myuser
+      - MYSQL_PASSWORD=mypassword
+      - MYSQL_DATABASE=matomo
+  matomo:
+    image: wtmatomo
+    build:
+      context: .
+      dockerfile: matomo.Dockerfile
+    links:
+      - db
+  nginx:
+    image: wtmatomonginx
+    build:
+      context: .
+      dockerfile: nginx.Dockerfile
+    volumes_from:
+      - matomo
+    links:
+      - matomo
+    ports:
+      - 8080:80
+    depends_on:
+      - matomo
+volumes:
+  mysqldata:
